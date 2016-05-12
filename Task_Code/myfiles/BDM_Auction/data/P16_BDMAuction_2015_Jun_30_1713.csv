@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,8.50588445261,,,,,,,2015_Jun_30_1713,59.9716175282,BDMAuction,P16,
+,,False,1.78,0.7,images/6_bounty.png,15,15,2015_Jun_30_1713,59.9716175282,BDMAuction,P16,
+,,,,,,,,2015_Jun_30_1713,59.9716175282,BDMAuction,P16,

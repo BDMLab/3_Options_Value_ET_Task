@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,3.66258837603,,,,,,,2015_Jul_17_1325,59.9933808134,BDMAuction,P25,
+,,True,0.47,1.0,images/16_peanuts.png,15,14.53,2015_Jul_17_1325,59.9933808134,BDMAuction,P25,
+,,,,,,,,2015_Jul_17_1325,59.9933808134,BDMAuction,P25,

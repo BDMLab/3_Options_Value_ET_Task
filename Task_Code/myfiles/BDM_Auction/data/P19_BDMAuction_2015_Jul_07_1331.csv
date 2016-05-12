@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,4.80877421209,,,,,,,2015_Jul_07_1331,60.0521321982,BDMAuction,P19,
+,,True,2.05,2.75,images/68_skittles_wildberry.png,15,12.95,2015_Jul_07_1331,60.0521321982,BDMAuction,P19,
+,,,,,,,,2015_Jul_07_1331,60.0521321982,BDMAuction,P19,

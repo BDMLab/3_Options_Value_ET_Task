@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,2.68065503122,,,,,,,2015_Jun_29_1255,59.9991789274,BDMAuction,P10,
+,,False,2.86,1.45,images/25_wonderful_almonds.png,15,15,2015_Jun_29_1255,59.9991789274,BDMAuction,P10,
+,,,,,,,,2015_Jun_29_1255,59.9991789274,BDMAuction,P10,

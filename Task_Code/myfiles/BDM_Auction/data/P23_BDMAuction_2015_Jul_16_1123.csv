@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,4.84773096345,,,,,,,2015_Jul_16_1123,60.0015053545,BDMAuction,P23,
+,,True,0.03,1.05,images/45_gb_ginger.png,15,14.97,2015_Jul_16_1123,60.0015053545,BDMAuction,P23,
+,,,,,,,,2015_Jul_16_1123,60.0015053545,BDMAuction,P23,

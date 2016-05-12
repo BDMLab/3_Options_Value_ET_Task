@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,13.0953119757,,,,,,,2015_Jul_03_1656,59.9607680236,BDMAuction,P17,
+,,True,0.96,1.35,images/11_lindt_orange.png,15,14.04,2015_Jul_03_1656,59.9607680236,BDMAuction,P17,
+,,,,,,,,2015_Jul_03_1656,59.9607680236,BDMAuction,P17,

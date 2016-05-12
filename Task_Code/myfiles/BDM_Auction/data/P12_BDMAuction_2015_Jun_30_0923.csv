@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,5.6662192506,,,,,,,2015_Jun_30_0923,60.0378280209,BDMAuction,P12,
+,,True,0.56,1.7,images/65_doritos_chilli.png,15,14.44,2015_Jun_30_0923,60.0378280209,BDMAuction,P12,
+,,,,,,,,2015_Jun_30_0923,60.0378280209,BDMAuction,P12,

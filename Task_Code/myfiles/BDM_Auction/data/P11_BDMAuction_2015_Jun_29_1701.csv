@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,10.590499145,,,,,,,2015_Jun_29_1701,60.016734254,BDMAuction,P11,
+,,True,0.07,1.5,images/49_food_doctor_roasted_beans.png,15,14.93,2015_Jun_29_1701,60.016734254,BDMAuction,P11,
+,,,,,,,,2015_Jun_29_1701,60.016734254,BDMAuction,P11,

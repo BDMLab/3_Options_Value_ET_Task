@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,3.94641202562,,,,,,,2015_Jul_21_1103,60.0069115478,BDMAuction,P28,
+,,True,0.17,1.85,images/37_trail_mix.png,15,14.83,2015_Jul_21_1103,60.0069115478,BDMAuction,P28,
+,,,,,,,,2015_Jul_21_1103,60.0069115478,BDMAuction,P28,

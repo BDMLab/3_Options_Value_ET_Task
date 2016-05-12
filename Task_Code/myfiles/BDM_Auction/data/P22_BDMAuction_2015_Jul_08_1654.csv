@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,3.42446098134,,,,,,,2015_Jul_08_1654,59.9837196774,BDMAuction,P22,
+,,False,1.06,0.0,images/27_mars.png,15,15,2015_Jul_08_1654,59.9837196774,BDMAuction,P22,
+,,,,,,,,2015_Jul_08_1654,59.9837196774,BDMAuction,P22,

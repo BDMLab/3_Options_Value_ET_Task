@@ -1,0 +1,3 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,18.9606092865,,,,,,,2015_Jun_23_1058,59.9931584518,BDMAuction,P1,
+,,False,2.61,0.7,images/47_daim.png,15,15,2015_Jun_23_1058,59.9931584518,BDMAuction,P1,

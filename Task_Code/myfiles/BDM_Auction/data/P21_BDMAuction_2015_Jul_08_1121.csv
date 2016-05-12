@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,9.40625079292,,,,,,,2015_Jul_08_1121,59.974335212,BDMAuction,P21,
+,,False,2.15,0.15,images/50_nakd_rhubarb_and_custard.png,15,15,2015_Jul_08_1121,59.974335212,BDMAuction,P21,
+,,,,,,,,2015_Jul_08_1121,59.974335212,BDMAuction,P21,

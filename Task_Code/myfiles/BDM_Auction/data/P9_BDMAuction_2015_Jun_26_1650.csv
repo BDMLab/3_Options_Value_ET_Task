@@ -1,0 +1,4 @@
+PreAuctionResp.keys,PreAuctionResp.rt,auction.win_item,auction.price,auction.bid,auction.rand_itm_img,score.base,score.final_pymt,date,frameRate,expName,participant,
+space,6.81115950185,,,,,,,2015_Jun_26_1650,60.0042083519,BDMAuction,P9,
+,,False,0.52,0.45,images/9_hovis_crackers.png,15,15,2015_Jun_26_1650,60.0042083519,BDMAuction,P9,
+,,,,,,,,2015_Jun_26_1650,60.0042083519,BDMAuction,P9,

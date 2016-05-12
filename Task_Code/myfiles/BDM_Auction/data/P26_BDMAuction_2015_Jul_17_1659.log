@@ -1,0 +1,24 @@
+1.9253 	WARNING 	Movie2 stim could not be imported and won't be available
+10.9720 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode=u'avg', color=u'black', colorSpace='named', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x0BE68CB0>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.9721 	EXP 	window1: recordFrameIntervals = False
+11.1385 	EXP 	window1: recordFrameIntervals = True
+11.3219 	EXP 	window1: recordFrameIntervals = False
+11.4130 	EXP 	Created PreAuctionText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.06, italic=False, name='PreAuctionText', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+11.4177 	EXP 	PreAuctionText: autoDraw = True
+15.3716 	DATA 	Keypress: space
+15.3968 	EXP 	Created pic_auc_itm = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace=u'rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='images/64_nestle_aero_mint.png', interpolate=False, mask=None, maskParams=None, name='pic_auc_itm', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 0.42291667,  0.75185185]), texRes=128, units=u'norm', win=Window(...))
+15.4220 	EXP 	Created auc_txt1 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.07, italic=False, name='auc_txt1', opacity=1.0, ori=0, pos=array([ 0. ,  0.6]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+15.4363 	EXP 	Created auc_txt2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.07, italic=False, name='auc_txt2', opacity=1.0, ori=0, pos=array([ 0. , -0.6]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+15.4400 	EXP 	PreAuctionText: autoDraw = False
+15.6548 	EXP 	pic_auc_itm: autoDraw = True
+15.6548 	EXP 	auc_txt1: autoDraw = True
+15.6548 	EXP 	auc_txt2: autoDraw = True
+25.8713 	DATA 	Keypress: space
+25.8787 	EXP 	Created pymt_disp_txt1 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.07, italic=False, name='pymt_disp_txt1', opacity=1.0, ori=0, pos=array([ 0. ,  0.6]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1.5)
+25.8889 	EXP 	Created pymt_disp_txt2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.07, italic=False, name='pymt_disp_txt2', opacity=1.0, ori=0, pos=array([ 0.  , -0.65]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+25.8933 	EXP 	pic_auc_itm: autoDraw = False
+25.8933 	EXP 	auc_txt1: autoDraw = False
+25.8933 	EXP 	auc_txt2: autoDraw = False
+25.8933 	EXP 	pymt_disp_txt1: autoDraw = True
+25.8933 	EXP 	pymt_disp_txt2: autoDraw = True
+29.7378 	DATA 	Keypress: space

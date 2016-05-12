@@ -1,0 +1,11 @@
+1.9276 	WARNING 	Movie2 stim could not be imported and won't be available
+17.4391 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode=u'avg', color=u'black', colorSpace='named', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x04FDCCB0>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+17.4392 	EXP 	window1: recordFrameIntervals = False
+17.6055 	EXP 	window1: recordFrameIntervals = True
+17.7889 	EXP 	window1: recordFrameIntervals = False
+17.8776 	EXP 	Created PreAuctionText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.06, italic=False, name='PreAuctionText', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+17.8824 	EXP 	PreAuctionText: autoDraw = True
+20.9722 	DATA 	Keypress: lctrl
+26.5121 	DATA 	Mouse: Left button down, pos=(1422,394)
+26.6884 	DATA 	Mouse: Left button up, pos=(1384,364)
+27.1384 	DATA 	Keypress: escape
